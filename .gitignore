@@ -1,0 +1,6 @@
+/myTrip/.gradle
+/myTrip/build/
+.idea
+/myTrip/out/
+/trips-ui/node_modules
+/trips-ui/npm-debug.log*
